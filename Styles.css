@@ -1,0 +1,77 @@
+body {
+  background-color: #EAF6F6;
+}
+
+h1 {
+  color: #66BFBF;
+}
+
+h3 {
+  color: #66BFBF;
+  position: relative;
+  left: 550px;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%
+}
+
+img {
+  width: 130px;
+}
+
+.circular {
+  border-radius: 100%;
+}
+
+p {
+  color: #EB1D36;
+}
+
+a {
+  color: green;
+}
+
+.position {
+  position: relative;
+  left: 600px;
+}
+
+.position1 {
+  position: relative;
+  left: 525px;
+}
+
+.Position2 {
+  position: relative;
+  left: 400px;
+}
+
+.position3 {
+  position: relative;
+  left: 500px;
+}
+
+.position4 {
+  position: relative;
+  left: 525px;
+}
+
+.position5 {
+  position: relative;
+  left: 555px;
+}
+
+ul {
+  position: relative;
+  left: 350px;
+}
+
+th {
+  position: relative;
+  left: 400px;
+}
